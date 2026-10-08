@@ -1,0 +1,8 @@
+# Local system files and large recordings — the demo is available on YouTube.
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.mp4
+*.mov
+*.avi
+
