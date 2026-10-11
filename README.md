@@ -2,8 +2,6 @@
 
 A bomb system created in Unreal Engine as part of the **LABA IT — Unreal Engine — C++** course. This repository showcases the project through a demonstration video and screenshots of its Blueprint logic.
 
-**Author:** Joanna Strzeszewska
-
 ## Demo Video
 
 [▶ Watch the demo on YouTube](https://youtu.be/xnBEjKRdFk8)
